@@ -1,21 +1,365 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Generative AI and Machine Learning projects, including RAG-based systems and LLM-powered applications.<br><br>👯 I’m looking to collaborate on:<br>AI, Machine Learning, and Generative AI projects that solve real-world problems.<br><br>🤝 I’m looking for help with:<br>Optimizing ML models and deploying scalable LLM-based applications.<br><br>🌱 I’m currently learning:<br>Advanced Transformers, prompt engineering, and production-ready RAG architectures.<br><br>💬 Ask me about:<br>Python, SQL, Machine Learning, Deep Learning, LangChain, RAG, and LLM APIs.<br><br>⚡ Fun fact:<br>I blend AI development with creativity through motion graphics and video editing.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,30,25&height=200&section=header&text=SHUBHAM%20KUMAR%20JHA&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=30&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20Systems%20%7C%20LLM%20Applications&descAlignY=52&descAlign=50"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/notjeetard18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-kumar-jha-3b0a13366/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NotJEEtard18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham.kr.jha.2005@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=AI+Engineer+%F0%9F%A4%96;Generative+AI+Developer+%F0%9F%94%AE;RAG+Systems+Builder+%F0%9F%94%8D;Backend+%2B+AI+Systems+Architect+%F0%9F%8F%97%EF%B8%8F;LLM+Application+Developer+%E2%9A%A1;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NotJEEtard-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NotJEEtard-18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotJEEtard-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NotJEEtard-18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://www.linkedin.com/in/shubham-kumar-jha-3b0a13366/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1a" />
+  </a>
+  <a href="mailto:shubham.kr.jha.2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1a" />
+  </a>
+  <a href="https://github.com/shubham-k-jha-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1a" />
+  </a>
+  <a href="https://x.com/NotJEEtard18">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0f1a" />
+  </a>
+  <a href="https://www.instagram.com/notjeetard18/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0f1a" />
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=shubham-k-jha-dev&label=Profile%20Views&color=A855F7&style=for-the-badge" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+
+```python
+class ShubhamKumarJha:
+    """AI Engineer crafting intelligent systems"""
+
+    def __init__(self):
+        self.name = "Shubham Kumar Jha"
+        self.role = "AI Engineer"
+        self.location = "India 🇮🇳"
+
+        self.focus = [
+            "Generative AI",
+            "RAG Systems",
+            "LLM Applications",
+            "AI Backend Infrastructure",
+        ]
+
+        self.languages = ["Python", "SQL", "C++", "Java", "R"]
+
+        self.frameworks = [
+            "LangChain", "FastAPI", "Flask",
+            "PyTorch", "TensorFlow", "scikit-learn",
+        ]
+
+        self.tools = [
+            "Pinecone", "ChromaDB", "FAISS",
+            "OpenAI API", "HuggingFace", "MLflow",
+            "Streamlit", "Docker", "AWS",
+        ]
+
+        self.interests = [
+            "AI Systems Architecture",
+            "Model Optimization",
+            "Prompt Engineering",
+            "Production RAG Pipelines",
+        ]
+
+        self.currently_learning = [
+            "Advanced Transformers",
+            "Production-Ready RAG Architectures",
+            "Distributed AI Systems",
+        ]
+
+    def motto(self):
+        return "Turning ideas into intelligent AI systems 🚀"
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔍 AI-Powered Search Engine
+
+<a href="https://github.com/shubham-k-jha-dev/enterprise-rag-search-engine">
+  <img src="https://img.shields.io/badge/RAG_System-FFB800?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0a0f1a" />
+</a>
+
+**Production-grade AI Search Engine powered by Retrieval-Augmented Generation (RAG)**
+
+- 🧠 Hybrid semantic search using dense vector embeddings and intelligent reranking
+- 📚 Context-aware document retrieval with chunking, metadata filtering, and relevance scoring
+- ⚡ Low-latency query processing with optimized vector database pipelines
+- 🔗 Multi-source knowledge integration across documents, APIs, and structured data
+- 🧩 Scalable RAG architecture designed for production workloads
+- 🛠️ LLM-powered answer synthesis with grounded citations from retrieved context
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚨 Hybrid Anomaly Detection System
+
+<a href="https://github.com/shubham-k-jha-dev/RAILS_Anomaly_Detector">
+  <img src="https://img.shields.io/badge/RAILS_Anomaly_Detector-FF6B6B?style=for-the-badge&logo=railway&logoColor=white&labelColor=0a0f1a" />
+</a>
+
+**Hybrid ML + Rule-Based anomaly detection platform for railway inspection integrity**
+
+- 🧠 Random Forest model for probabilistic anomaly detection
+- ⚙️ Rule-based engine with domain-specific inspection validation rules
+- 🔀 Hybrid decision pipeline combining ML predictions with rule triggers
+- 📡 FastAPI service exposing anomaly detection APIs
+- 📊 Inspector behaviour profiling with anomaly summaries and statistics
+- 🧪 Synthetic dataset generation for training and evaluation
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧾 Intelligent Invoice Auditing System
+
+<a href="https://github.com/shubham-k-jha-dev/smart-invoice-auditor">
+  <img src="https://img.shields.io/badge/Invoice_AI_Auditor-00D9FF?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0a0f1a" />
+</a>
+
+**AI-powered invoice analysis and automated payment authorization system**
+
+- 📄 Automated PDF invoice parsing and data extraction
+- 📊 Intelligent price comparison using market and historical data
+- 🚨 Risk assessment engine detecting suspicious pricing patterns
+- 🤖 Automated payment approval / rejection recommendations
+- 📡 FastAPI backend for real-time invoice analysis APIs
+- 📈 Vendor reliability tracking and confidence scoring
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyPDF2-FF6B6B?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧬 ML Pipeline System
+
+<a href="https://github.com/shubham-k-jha-dev">
+  <img src="https://img.shields.io/badge/ML_Pipelines-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0a0f1a" />
+</a>
+
+**End-to-end machine learning pipeline for model training & deployment**
+
+- 📈 Automated data preprocessing & feature engineering
+- 🔬 Experiment tracking with MLflow
+- 🚀 Model serving & inference optimization
+- 📦 Containerized deployments
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## 🛠️ Technical Skills
+
+### 🖥️ Core Programming
+<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark&perline=3" />
+
+### 🤖 AI / ML Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=fastapi,flask,anaconda,heroku&theme=dark&perline=4" />
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark&perline=3" />
+
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+</p>
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux&theme=dark&perline=5" />
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+</p>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham-k-jha-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=shubham-k-jha-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
+
+<br/>
+
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-k-jha-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-k-jha-dev&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&hide_border=true" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=shubham-k-jha-dev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> What I Build
+
+```diff
++  🔍  RAG Systems — vector database powered retrieval with Pinecone, ChromaDB & FAISS
++      Semantic search • hybrid retrieval • contextual re-ranking • document pipelines
++
++  🤖  LLM-Powered Applications — production-grade AI apps with guardrails
++      Custom chains • prompt optimization • multi-model orchestration • output validation
++
++  ⚡  AI APIs with FastAPI — high-performance endpoints for ML inference
++      Async processing • model serving • batch predictions • auto-scaling
++
++  🧬  ML Pipelines — end-to-end model training, tracking & deployment
++      Experiment tracking • hyperparameter tuning • model versioning • CI/CD for ML
++
++  🎨  Creative AI — blending AI development with motion graphics & video editing
++      After Effects • Premiere Pro • AI-assisted content creation
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate
+
+<p>
+  <a href="https://www.linkedin.com/in/shubham-kumar-jha-3b0a13366/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shubham.kr.jha.2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shubham-k-jha-dev">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/NotJEEtard18">
+    <img src="https://img.shields.io/badge/X-@NotJEEtard18-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+**🚀 Open to AI Engineering & Machine Learning Opportunities**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Python+%7C+LangChain+%7C+FastAPI+%7C+PyTorch;RAG+Systems+%7C+LLM+Applications+%7C+ML+Pipelines;Generative+AI+%7C+Prompt+Engineering+%7C+Vector+DBs;Let's+build+intelligent+systems+together+%F0%9F%A4%9D" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,30,25&height=120&section=footer"/>
